@@ -1,0 +1,577 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PHY 211 Fall 2026",
+    "section": "",
+    "text": "Welcome to the Fall 2026 class of PHYS 211!\nIf this is your first time on the course website, I recommend you\nStart Here"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "PHY 211 Fall 2026",
+    "section": "Course Description",
+    "text": "Course Description\nYou can see the PHYS 211 course description here."
+  },
+  {
+    "objectID": "index.html#course-objectives",
+    "href": "index.html#course-objectives",
+    "title": "PHY 211 Fall 2026",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nBy the end of this course, you will be able to\n\nDemonstrate skills of approximation and estimation to gain insight into physical situations and to check if solutions are reasonable\nImplement strategies that build intuition for setting up and approaching problems in mechanics.\n\nConnect mathematical skills with physical concepts to solve problems related to force, momentum, energy, and angular momentum\nUse reflection and recall to monitor and evaluate your own learning, connecting to the principles of a growth mindset\nCollaborate with fellow students, recognizing their strengths and humanity, in ways that foster mutually supportive relationships and a sense of belonging in the community"
+  },
+  {
+    "objectID": "index.html#course-topics",
+    "href": "index.html#course-topics",
+    "title": "PHY 211 Fall 2026",
+    "section": "Course Topics",
+    "text": "Course Topics\nThis course covers the following content:\n\nProblem-solving skills\nKinematics in multiple coordinate systems\nNewton’s laws and forces\nCollisions and momentum\nEnergy transfer and conservation laws\nThe Euler-Langrange equations\nRotational kinematics, torque, and angular momentum"
+  },
+  {
+    "objectID": "starthere.html",
+    "href": "starthere.html",
+    "title": "Start Here",
+    "section": "",
+    "text": "Welcome to PHYS 211, Fall 2026!\nNot sure where to start? I’ve put together a guide.\nThis website contains the syllabus, schedule, FAQ, and links to useful resources to support your learning. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.\n\nGet the textbook\nIf you have not yet, please make sure you get the textbook for this class, which is “Introduction to Classical Mechanics” by David Morin (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.\n\n\n\nFill out the welcome form\nThe first thing you should do for this class is fill out the welcome form. This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time! This is also a chance for you to let me know your availability so I can optimize scheduling my office hours.\n\n\nRead the syllabus\nI’ve tried to make the syllabus relatively short, sweet, and well-organized. It’s all on this website, so please take a minute to read the syllabus page.\nIf you need help navigating to a specific topic in the syllabus, here’s a rough outline:\nClassroom Expectations\nTechnology and AI Policy\nRecording Policy\nGrading Scheme\nAssignments and Grading\nDeadline and Late Policy\n\n\nKeep an eye on the schedule\nThe schedule for this class is in a google doc so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.\n\n\nNeed support?\nDo you feel a little rusty with some of your math skills? Is there a topic you struggled with in previous physics classes and need to ask some questions? You can always come to office hours or schedule an appointment with me in calendly (see Lyceum for the link), but I’ve also put together a page with resources to support you.\nOn this page, you will find a database of math videos if you need to brush up on some calculus you may have forgotten. You will also find a list of resources that might help if you’re just having a tough time managing your workload, taking notes, or figuring out what to prioritize.\nThere are also links on this page to mental health resources available on campus, including CAPS and the Title IX office.\n\n\nStill have questions?\nIf you’ve read the syllabus and still have questions, check out the FAQ. If you have a question that’s not answered on that page, please feel free to email me! I’ve tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.\n\n\nHave concerns?\nI know it can be intimidating to talk to a professor about sensitive topics. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you). Please be respectful and thoughtful when filling out this form, as I use it to improve classroom dynamics and it’s here to make everyone’s experience better.",
+    "crumbs": [
+      "Start Here"
+    ]
+  },
+  {
+    "objectID": "resources.html#profdevresources",
+    "href": "resources.html#profdevresources",
+    "title": "Resources",
+    "section": "Study and Professional Skills Resources",
+    "text": "Study and Professional Skills Resources\nWebsite: SASC General Study Strategies\nVideo: how to get the most out of studying\nArticle: how to take notes\nArticle: the Urgent/Important Matrix for prioritization\nVideo: the Urgent/Important Matrix for prioritization",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#mentalhealthresources",
+    "href": "resources.html#mentalhealthresources",
+    "title": "Resources",
+    "section": "Mental Health Resources",
+    "text": "Mental Health Resources\n\nSelf-care and stress resources\nSelf-care flow chart\nBates College well-being site\n\n\nCrisis resources\nBates Counseling and Psychological Services\nBates Title IX and Civil Rights Compliance Office: If you are experiencing harassment or discrimination, you can get help here.\nPlease note that I am a responsible reporter, which means that I am required to share with the Title IX Coordinator “all knowledge of discrimination harassment, and/or retaliation witnessed or shared with” me.\nYou can always choose what you reveal to me if you come to speak with me about something that’s going on. I won’t ever insist that you tell me details that you don’t wish to share.\nThe confidential Resource Advisor is not required to disclose, and is a great resource if you’re facing something big and need some guidance.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "I’m Casey Berger and this is my third year at Bates College. At Bates, I’ve taught PHYS 211 (Newtonian Mechanics), PHYS 216 (Computational Physics), PHYS 301 (Mathematical Methods of Physics), PHYS 308 (Introductory Quantum Mechanics), and PHYS 409 (Quantum Theory). Before Bates, I was a professor at Smith College in Physics and Statistical and Data Sciences. And long before that – before I went to school for physics and computational science – I went to college for philosophy, film production, and Spanish and worked in the film industry. It took me a long time to find my way to physics, but I wouldn’t change any of it. The long and winding path taught me so much more about who I am, what I am capable of, and how many opportunities are available in the world. It also taught me that it’s never too late to find a new passion or change your career direction.\nMy research involves applying high performance computing and data science techniques to many-body quantum systems, which just means studying how medium-to-large numbers of quantum objects like electrons, neutrons, or atoms interact with each other and their environment. This sounds straightforward, but unfortunately the mathematics of quantum mechanics means these problems become impossible to solve by hand and extremely challenging to solve even with high powered computers when the system is still only a few particles.\nOutside of physics, I am a person with lots of interests and hobbies. I love being outdoors in all seasons, but also love reading a book or playing board games inside with a cup of tea. Ask me for book recommendations, recipes for interesting food, or great hikes in Maine!",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#classexpectations",
+    "href": "syllabus.html#classexpectations",
+    "title": "Syllabus",
+    "section": "Classroom expectations",
+    "text": "Classroom expectations\n\nWhat you can expect from meWhat I expect from youWhat is not expected\n\n\n\nI will stay home if I am feeling sick and make arrangements to deliver the course material\nI will work with you to arrange accommodations when you need them\nI will respect your time by starting and ending class on time\nI will answer your questions thoughtfully, and if I don’t know the answer, I will follow up in a timely manner\nI will embrace who you are as whole people\nI will model respect, openness, and engagement, and foster a supportive and inclusive environment\nI will be honest when I make mistakes, because failure is part of growing\n\n\n\n\nThat you stay home if you are sick and contact me via email to arrange accommodations\nThat you be mentally present when you are in class, to the best of your ability\nThat you make a good faith effort at the work, both during and outside of class time\nThat you ask questions if you are confused (you may do this privately – there is no obligation to ask during class hours)\nThat you communicate with me when you have problems that interfere with your ability to engage with the coursework\nThat you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom\n\n\n\n\nPerfection. Ever. It’s a myth.\nThat you will ‘sit still’ or ask for permission to leave the classroom to go to the bathroom or if you just need a minute. You’re adults and I trust you to do what you need to.\nThat everyone will learn in the same way. You do not have to match some “model student” to do well in this class",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#tbl",
+    "href": "syllabus.html#tbl",
+    "title": "Syllabus",
+    "section": "Team-Based Learning",
+    "text": "Team-Based Learning\nI am using a variation of team-based learning for this class, in order to cultivate a community-minded classroom, encourage a growth mindset, and build group work skills. Here is how this will work:\nWe will have two modules, and you will work in a team of 4-6 students for each module. Your team will work on problems in class and discuss the content together. Your active involvement in group work in class will contribute to your grade as part of the Practice category, so it counts the same way as homework.\nAt the end of each module, your team will write a physics problem that represents the content learned in this module. This is the Problem Project part of the Learning Objectives category of the grade. After the first module, we will shuffle the groups, so you will have two different teams over the course of the semester.\nNot all of the work will be in groups. You will also have individual tests and homework. You can work with other students on your homework, but the final work you submit must be your own.\nI have tried to balance the class so that there is a mix of individual and group work, which I hope will allow everyone to get something meaningful out of the course.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#practice",
+    "href": "syllabus.html#practice",
+    "title": "Syllabus",
+    "section": "Practice",
+    "text": "Practice",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#section",
+    "href": "syllabus.html#section",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Problem Project",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#practicegrade",
+    "href": "syllabus.html#practicegrade",
+    "title": "Syllabus",
+    "section": "Practice",
+    "text": "Practice\n\nWarm-up Problems\n\n\nChallenge Problems\n\n\nPractice Tests",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#LOgrade",
+    "href": "syllabus.html#LOgrade",
+    "title": "Syllabus",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nIn-Class Assessments\n\n\nProblem Project",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#metacognitiongrade",
+    "href": "syllabus.html#metacognitiongrade",
+    "title": "Syllabus",
+    "section": "Metacognition",
+    "text": "Metacognition",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#groupwork",
+    "href": "syllabus.html#groupwork",
+    "title": "Syllabus",
+    "section": "Group Work",
+    "text": "Group Work\nI am incorporating group work in two ways throughout this class in order to cultivate a community-minded classroom, encourage a growth mindset, and build group work skills. Here is how this will work:\nWe will have two modules, and you will work in a team of 4-6 students for each module. Your team will work on problems in class and discuss the content together. Your active involvement in group work in class will contribute to your grade as part of the Practice category, just as your individual homework counts.\nAt the end of each module, your team will write a physics problem that represents the content learned in this module. This is the Problem Project part of the Learning Objectives category of the grade. After the first module, we will shuffle the groups, so you will have two different teams over the course of the semester.\nNot all of the work will be in groups. You will also have individual tests and homework. You can work with other students on your homework, but the final work you submit must be your own.\nI have tried to balance the class so that there is a mix of individual and group work, which I hope will allow everyone to get something meaningful out of the course.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#assignments",
+    "href": "syllabus.html#assignments",
+    "title": "Syllabus",
+    "section": "Assignments and Grading",
+    "text": "Assignments and Grading\nThere are three main categories for grade items in this class:\n\nPractice: This work is low-stakes work intended to prepare you for the assessments in this class. It includes pre-class quizzes on the reading, a variety of homework problems, and in-class group work. This will make up 50% of your final grade.\nProficiency: Another 40% of your grade will be made up of 8 bundles of learning objectives. You will have opportunities to demonstrate your proficiency in these learning objectives through in-class tests and the problem projects.\nMetacognition: One of the most important skills you will learn in college is how to learn. This is called metacognition, and I have built into the grade in this class a chance to practice these metacognitive skills. 10% of your final grade will come from the metacognition assignments in this category.\n\n\nPractice\nAlmost half of your grade will be made up of a collection of work I am calling “Practice.” This includes reading the textbook and completing a pre-class reading quiz, solving problems and reflecting on your work, and taking timed practice tests to help you prepare for the in-class assessments.\nFor every assignment in the Practice category, the late policy is the same. Work done before the due date will receive full credit. All work done after the due date will receive half credit.\nThis is the base of the learning pyramid, and so there is a lot of work in this category.\nThere will be 200 total points available in the Practice category, but the maximum grade you can achieve is 150 points. There are more points available than you need, so you can make some choices about what you want to put your energy into.\n\nPre-Class QuizzesWarm-up ProblemsChallenge ProblemsPractice TestsIn-Class Group Work\n\n\nThese are simple, 8-question multiple choice quizzes based on the reading, intended mostly to strengthen your retention of what you read. These are due at 1PM on the day of class, and there will be 18 PCQs throughout the semester.\n\n\nThese are a small set of problems selected for each week of new content (there are no warm-up problems during Problem Project weeks). There will be 2-3 warm up problems for each week, and I recommend you start with these. If you find them too easy, move on to the challenge problems.\nWhen you complete a problem, you can submit it on Lyceum. Once you do that, the solution will become available. You should check the solution against your own work and then fill out the reflection form for that problem in Lyceum.\nYou will only get credit for a problem if you both submit a good faith attempt at the solution and fill out the reflection form.\n\n\nThese are a small set of problems selected for each week of new content (there are no warm-up problems during Problem Project weeks). There will be 3-4 challenge problems for each week, and you should expect them to be challenging. If you are having a hard time with these, I recommend spending more time with the warm-up problems first, and once you feel comfortable with those, I recommend bringing your questions to office hours.\nWhen you complete a problem, you can submit it on Lyceum. Once you do that, the solution will become available. You should check the solution against your own work and then fill out the reflection form for that problem in Lyceum.\nYou will only get credit for a problem if you both submit a good faith attempt at the solution and fill out the reflection form.\n\n\nI have designed one practice test for each test you will take in class. These are meant to be similar in content, length, and difficulty level to the in-class test. I recommend setting a timer and working in a distraction-free environment and with no notes aside from the course equation sheet if you want the best approximation of what the real test will be like.\nJust like with the warm-up and challenge problems, submitting your work will get you the solution and a reflection form on Lyceum. This reflection form will ask you about how you felt you did on each of the learning objectives the test assessed, to help you understand how those learning objectives will appear.\nYou must make a good faith attempt at the practice test compare your work to the solution and reflect in order to get credit for the practice test.\n\n\nMost days in class, there will be a chance for your group to solve a problem. If you are present and actively work with your team, and your team works on the problem but does not solve it, you will receive one point for that day. If you are present and actively work with your team, and your team successfully solves the problem, you will receive two points for that day.\n\n\n\n\n\nProficiency in the Learning Objectives\nThere will be seven topics with learning objectives that will be assessed in this class. Those can all be found on the Course Content page. Each time you successfully demonstrate proficiency in a learning objective (which you can do through in-class tests and the problem project), you will earn one point towards that topic. The maximum number of points you can earn in each category is eight, but there will be more than eight chances to achieve learning objectives in each topic.\nThe topics are:\n\nThe Problem-Solving Process\nMath Tools\nForces and Torques\nMotion\nWork and Energy\nMomentum and Impulse\nAngular Momentum\n\n\nIn-Class AssessmentsProblem Project\n\n\nThere will be 6 in-class assessments throughout the semester, each of which will be graded on a single-point rubric. That rubric will have a list of the learning objectives assessed by the test, and you will be graded on whether you demonstrated proficiency in that learning objective. If you are not sure how this will work, I recommend taking the first practice test as soon as possible, as that will help you see what this rubric will look like.\nEach test is technically cumulative, but it will emphasize more recent topics over older ones.\nThere will also be a cumulative final, which I will design to contain the most-missed learning objectives across the class.\n\n\nAt the end of each of our two modules, you and your group will spend one week designing a physics problem to test a subset of the learning objectives you have seen so far in class.\nOn Monday, your group will select up to five learning objectives across no more than three topics to assess, and then you will draft and solve a physics problem similar to the kinds of problems we will solve in class and on the homework.\nOn Wednesday, you will receive draft problems from two other groups and you will try to solve them and give feedback to those two groups.\nOn Friday, you will take the peer feedback you receive (from two different groups) and revise your problem. You will turn this problem in (typeset) by Monday of the next week. If the problem is clearly stated and solvable by your peers, then you will receive credit for each learning objective you selected depending on how well the problem actually assesses each learning objective.\nYou must be present in class and actively involved with your team on all three days to receive credit for the learning objectives your team achieves.\n\n\n\n\n\nMetacognition\nYou can earn a total of nine points towards metacognition, but you only need five to complete this category. These assignments are designed to get you thinking about how you engage with your learning.\nThe due dates on these assignments are fixed in order to support the process of self-reflection and growth. If you want to do these, you must complete them by the deadline posted in Lyceum\n\nSMART goalsLearning Strategies TrainingReading and Self-Reflection\n\n\nThis consists of three parts, each of which is worth one point.\n\nReading about SMART goals and setting one for yourself\nChecking in with your progress mid-semester on your SMART goal (you must complete the first assignment to complete this one)\nReflecting on how your SMART goal went at the end of the semester (you must complete the first assignment to complete this one)\n\n\n\nThis consists of three parts, each of which is worth one point.\n\nScheduling a meeting with Eric Dyer, a learning strategies specialist, and preparing for the meeting ahead of time\nReflecting on your meeting with Eric and any goals you set (you must complete the first assignment to complete this one)\nScheduling a follow-up meeting with Eric at the end of the semester to talk about your progress on the goals you set in the first meeting (you must complete the first assignment to complete this one)\n\n\n\nThere are two reflection assignments, both of which must be done early in the semester:\n\nGrowth mindset: This is a short reading assignment on growth mindset versus fixed mindset, followed by a short reflection on when you have experienced a growth mindset before in your life. This is worth one point.\nAI reflection: this consists of a set of readings about generative AI, followed by a short reflection on what you learned from the readings. This is worth two points, as the readings are more substantive.\n\n\n\n\n\n\nExtra Credit\nBecause there is already some extra room built into your grade, there will only be one opportunity to earn extra credit in this class, and that is by turning your phone on do not disturb and placing it in a designated place every class. If you do this for 75% of class sessions, I will round your grade up after the final grade is calculated.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#round-up",
+    "href": "syllabus.html#round-up",
+    "title": "Syllabus",
+    "section": "Phone Free Round-Up",
+    "text": "Phone Free Round-Up",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#roundup",
+    "href": "syllabus.html#roundup",
+    "title": "Syllabus",
+    "section": "Extra Credit",
+    "text": "Extra Credit\nBecause there is already some extra room built into your grade, there will only be one opportunity to earn extra credit in this class, and that is by turning your phone on do not disturb and placing it in a designated place every class. If you do this for 75% of class sessions, I will round your grade up after the final grade is calculated.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#deadlines-and-late-policy",
+    "href": "syllabus.html#deadlines-and-late-policy",
+    "title": "Syllabus",
+    "section": "Deadlines and Late Policy",
+    "text": "Deadlines and Late Policy\nThere is so much flexibility in the number of points you can earn in this class, so there will be no extensions provided on practice problems, PCQs, or metacognition assignments except in case of major extenuating circumstances.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#technology-policy",
+    "href": "syllabus.html#technology-policy",
+    "title": "Syllabus",
+    "section": "Technology Policy",
+    "text": "Technology Policy\n\nUse of LLMs\nLarge Language Models and agentic AI are so ubiquitous now that it seems almost silly to say so. You are facing the great challenge of how to navigate a world filled with AI-generated information and where the advice changes from minute to minute about whether you must become an AI expert or avoid AI to succeed.\nBut you are also a student at Bates College, where our mission includes educating “the whole person through creative and rigorous scholarship in a collaborative residential community” and “preparing leaders sustained by a love of learning and a commitment to responsible stewardship of the wider world.” And that means learning to cultivate your very human skills of creativity and critical thinking, and engaging in the productive struggle that leads to growth and learning. AI presents major challenges to all these values, from the environmental impacts of building and maintaining them and the traumatizing and exploitative nature of the labor involved in training them to the way cognitive offload reduces our capacity for independent thinking and the emotional offloading erodes our ability to live in community.\nBut it is up to you, as adults, to learn how you want to exist in the world we are creating right now. So while I will not fully ban the use of AI in this course, I will ask you to proceed very thoughtfully and carefully if you do use AI, and to follow these guidelines.\n\nIf you are going to use AI in any way in this class, you must first complete the AI assignment in the metacognition grade category. This is part of your grade anyway, so it benefits you to do this.\nIf you use AI in any way, even just to ask a quick question and clarify something, you must cite your source. This means including a record of the prompt and the response, as well as one sentence discussing what you learned from this use of AI.\nYou may never submit something as your own work if it was done by AI, even if you hand-copied it. Just like you wouldn’t claim your classmate’s work as your own, you can’t claim an LLM’s work either.\n\nViolation of this policy, along any of the three requirements, will result in a zero on the assignment in question.\n\n\nUse of technology during class time\nTechnology is completely infused into our lives, and I’m not trying to convince anyone to stop using it. As a computational physicist, it’s my literal vocation to use digital technology, and as a teacher, I spend many hours a day staring at my screen to write lesson plans and respond to emails. But it’s important to know that as useful a tool as technology is, it can also inhibit us.\nFirst, the science. While we all believe ourselves to be excellent multitaskers, studies show that we can’t actually focus on more than one thing at a time - what we are doing is actually rapidly task switching between one task and the next, and that task switching takes time and energy, making us do both tasks more poorly. This means that if you’re toggling between your email, social media, text messages, or whatever other content might be up on your laptop, phone, or tablet in class, you are going to have a harder time learning the content in class and a harder time doing whatever else you are trying to do. In addition, studies have found that merely being in the presence of our smartphones can cause us to be distracted by them.\nI have found this to be true, and as a general rule, if I’m working on something that requires my focus, such as writing a lesson plan or working on research projects, I have a box in my office that I put my phone in so I can’t be distracted by it.\nOur goal in this class is to learn, and class time is an important time set aside for us to meet together in community to work towards the learning goals. In order to make sure you get the most out of that time, and to help support your classmates to not be distracted, the policy for devices is the following:\n\nPhones must be on silent and out of view (to you and your classmates) throughout the duration of class\nLaptops and tablets are *opt in** only, meaning if you wish to use one and do not already have accommodations to use one with the Office of Accessible Education, you must submit a request to use a specific device or devices in the welcome form, along with an explanation of how each device will be conducive to your learning and how you will use it\n\nPlease note that there is a handy way to not only follow the course policy on cell phones, but also earn some extra credit, so I encourage you to take advantage of that to not only help you practice the habit of putting your phone away when it’s time to focus, but also get yourself a grade boost.\nOne final note: I recognize that sometimes we have situations that require us to be reachable, so if you have a special circumstance that means you need to be able to take a call when it comes in or receive an email notification, please talk to me about an exception to the policy.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "FAQ.html",
+    "href": "FAQ.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: See the course Lyceum for the classroom information",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#when-and-where-is-class",
+    "href": "FAQ.html#when-and-where-is-class",
+    "title": "FAQ",
+    "section": "",
+    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: See the course Lyceum for the classroom information",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#where-do-i-get-my-textbook",
+    "href": "FAQ.html#where-do-i-get-my-textbook",
+    "title": "FAQ",
+    "section": "Where do I get my textbook?",
+    "text": "Where do I get my textbook?\nThe textbook for this class is “Introduction to Classical Mechanics” by David Morin (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.\nTo find the library copies, go to librarysearch.bates.edu and search for the course number or my name. Write down the book’s call number and ask for it at the library.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#officehours",
+    "href": "FAQ.html#officehours",
+    "title": "FAQ",
+    "section": "When are your office hours?",
+    "text": "When are your office hours?\nOffice hours:\n\nTuesdays 2PM-3PM\nWednesdays 4PM-5PM\n\nYou can also make a one-on-one meeting in calendly (see Lyceum for the scheduling link). If you schedule a one-on-one meeting, it will be in my office. The location of my office and the classroom for office hours are both in Lyceum.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#goingtoofficehours",
+    "href": "FAQ.html#goingtoofficehours",
+    "title": "FAQ",
+    "section": "Should I go to office hours?",
+    "text": "Should I go to office hours?\nOffice hours are my open hours, when I have specifically set aside time to talk to my students (that’s you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I’m always happy to talk about other questions you might have.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#findstuff",
+    "href": "FAQ.html#findstuff",
+    "title": "FAQ",
+    "section": "Where do I find assignment instructions/course handouts/slides?",
+    "text": "Where do I find assignment instructions/course handouts/slides?\nI created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class notes will all be in the course page on Lyceum.\nIf you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#duedates",
+    "href": "FAQ.html#duedates",
+    "title": "FAQ",
+    "section": "When is __ due?",
+    "text": "When is __ due?\nYou can find all due dates on the course schedule. Dates are subject to change, but will always be kept up to date on the schedule so check back if you’re not sure.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#extensionpolicy",
+    "href": "FAQ.html#extensionpolicy",
+    "title": "FAQ",
+    "section": "Can I have an extension?",
+    "text": "Can I have an extension?\nThis course is designed with a huge amount of flexibility on due dates. Unless you have very serious extenuating circumstances, I will not be allowing any extensions or give full credit for work turned in late. You can see more about this in the syllabus section on deadlines.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#revisionpolicy",
+    "href": "FAQ.html#revisionpolicy",
+    "title": "FAQ",
+    "section": "Can I re-do something I did poorly on?",
+    "text": "Can I re-do something I did poorly on?\nThose of you who have taken classes with me (or who have talked to classmates who have taken my classes) know that I have in the past allowed retakes and retries on various assignments. In this class, I’m not allowing retakes or retries, but I’ve built that room to grow into the way the grades are calculated. If you need to meet learning objectives in the “Forces and Torques” category five times, but you have eight chances to do so throughout the semester, that means that if you make some mistakes, you have a chance to earn that learning objective later. And since homework is self-assessed, you don’t have to worry about missing points for making mistakes there, just for not trying in the first place. So, just like my extension policy, only if there are serious extenuating circumstances will I allow a retake.\nIf you feel strongly that you demonstrated one of the course learning objectives on a test but it was not accounted for in the rubric, please schedule a meeting with me to talk about it. Bring to that meeting the learning objective you feel you met, the work in which you feel you demonstrated that learning objective, and we can talk about it.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#emails",
+    "href": "FAQ.html#emails",
+    "title": "FAQ",
+    "section": "When will you reply to my email?",
+    "text": "When will you reply to my email?\nI get a lot of emails every day. And just like all of you, I have a lot of expectations on me every day. I would love to respond personally to each and every email I get, but that can become quite challenging. So I will do my best to reply within two business days to emails that require a timely response, but you may not hear from me if your question already has an available answer within your reach. So before you email me, please do the following first:\n\nCheck for emails in the class google group. I won’t use this often, in order to avoid overwhelming your inbox, but time sensitive announcements will go here.\nCheck the course calendar.\nCheck Lyceum to see if your question can be answered there (especially if this is about assignments, handouts, course content, etc)\nCheck the syllabus and FAQ. I’ve made it this way for a reason – it’s quickly searchable with ctrl+F, and organized with hyperlinks to make it easy to find things.\nConsider dropping by my office hours and just saying you have a quick question for me – office hours are not just for homework help, and I’m happy to answer questions of all sorts!",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#gradingcurve",
+    "href": "FAQ.html#gradingcurve",
+    "title": "FAQ",
+    "section": "Do you grade on a curve?",
+    "text": "Do you grade on a curve?\nGrades are not curved; your grade depends only on your own performance. Supporting your fellow students will help every one of you, and I hope you will work together!",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#ChatGPT",
+    "href": "FAQ.html#ChatGPT",
+    "title": "FAQ",
+    "section": "Can I use ChatGPT in this class?",
+    "text": "Can I use ChatGPT in this class?\nLarge Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:\n\nThat you do a little reading on Large Language Models. Specifically, read this article about how LLMs actually work and this article about the ethical considerations around LLMs\nThat you consider ChatGPT - or any other LLM -a source that you must cite. If you an LLM to help with any assignment, you must acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.\n\nRemember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to “hallucinating” (making stuff up, often in a way that is convincing but still false). They can’t do creative problem solving, which is the most important skill we are teaching in this class.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#catchingup",
+    "href": "FAQ.html#catchingup",
+    "title": "FAQ",
+    "section": "What should I do if I get behind on my work?",
+    "text": "What should I do if I get behind on my work?\nFirst, reach out to me. It helps me to know that you are working on catching up. I am also happy to meet and help you set adjusted deadlines to get back on track.\nSecond, if you are feeling really overwhelmed, consider scheduling an appointment with a learning strategies tutor at the Student Academic Support Center. Their role is to support students seeking help with time management, organization, reading, test-taking, note-taking, and other academic skills. They can help you talk through what strategies work for you, what strategies don’t, and how to manage your time and energy in a more sustainable way.\nNote that meeting with a learning strategies tutor is actually part of the metacognition grade in this class, so you will get some credit for doing this. If you find yourself struggling and it’s after the due date for that assignment, come talk to me and we’ll talk about options.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#accommodations",
+    "href": "FAQ.html#accommodations",
+    "title": "FAQ",
+    "section": "I have academic accommodations. What should I do?",
+    "text": "I have academic accommodations. What should I do?\nI have tried to bring the concept of universal design into how I have planned and structured this course, so I hope that any accommodations you have are already built into this course (aside from extra time on tests, which can’t be accommodated during class times, but you can take the tests through Accessible Education and Student Support. However, I don’t expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let me know and I will do my best to meet those needs.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#extrahelp",
+    "href": "FAQ.html#extrahelp",
+    "title": "FAQ",
+    "section": "What if I need more support in this class?",
+    "text": "What if I need more support in this class?\nThe Student Academic Support Center (SASC) has lots of tutors who can help you strengthen your math skills, problem solving skills, and study skills. Please reach out to them to see how they can help, in addition to coming to my office hours, where I am more than happy to walk through problems with you.\nThere are also a number of resources on the course Resources Page and I highly recommend you take a look.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#who-is-the-professor",
+    "href": "syllabus.html#who-is-the-professor",
+    "title": "Syllabus",
+    "section": "",
+    "text": "I’m Casey Berger and this is my third year at Bates College. At Bates, I’ve taught PHYS 211 (Newtonian Mechanics), PHYS 216 (Computational Physics), PHYS 301 (Mathematical Methods of Physics), PHYS 308 (Introductory Quantum Mechanics), and PHYS 409 (Quantum Theory). Before Bates, I was a professor at Smith College in Physics and Statistical and Data Sciences. And long before that – before I went to school for physics and computational science – I went to college for philosophy, film production, and Spanish and worked in the film industry. It took me a long time to find my way to physics, but I wouldn’t change any of it. The long and winding path taught me so much more about who I am, what I am capable of, and how many opportunities are available in the world. It also taught me that it’s never too late to find a new passion or change your career direction.\nMy research involves applying high performance computing and data science techniques to many-body quantum systems, which just means studying how medium-to-large numbers of quantum objects like electrons, neutrons, or atoms interact with each other and their environment. This sounds straightforward, but unfortunately the mathematics of quantum mechanics means these problems become impossible to solve by hand and extremely challenging to solve even with high powered computers when the system is still only a few particles.\nOutside of physics, I am a person with lots of interests and hobbies. I love being outdoors in all seasons, but also love reading a book or playing board games inside with a cup of tea. Ask me for book recommendations, recipes for interesting food, or great hikes in Maine!",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#class-recording-policy",
+    "href": "syllabus.html#class-recording-policy",
+    "title": "Syllabus",
+    "section": "Class Recording Policy",
+    "text": "Class Recording Policy\nIn line with our shared values around Academic Integrity and Conduct as articulated in the Student Code of Conduct, the Dean of Faculty office reminds all students that screen capturing or making audio/video recordings of synchronous or asynchronous meetings, lectures, discussions, course materials, or other classroom activities without the prior knowledge and consent of all parties is prohibited. This applies to the use of tape or digital recorders, cell phones, smartphones, computers, and other devices capable of creating a screen capture or making audio/video recordings. Likewise, the editing, sharing, or use of recorded or digitally shared course content outside of their assigned or intended purpose is also prohibited. Students with disabilities who wish to record classroom activity should contact the Office of Accessible Education for information about appropriate protocols.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#classdifficulty",
+    "href": "FAQ.html#classdifficulty",
+    "title": "FAQ",
+    "section": "Will this class be hard?",
+    "text": "Will this class be hard?\nLearning requires hard work and a willingness to sit with discomfort, and so this class will push you out of your comfort zone. We will be combining new conceptual ideas with old mathematical tools, and there will be a lot of homework so that you have plenty of opportunities to practice. It’s not meant to be a weed-out class (which are a form of unfair gatekeeping that I don’t subscribe to) or to be impossible to succeed in, but it is meant to be challenging.\nI’ve designed the class with lots of scaffolding, but every student is different, so that doesn’t mean this class will be perfectly matched to where you are every single day. If you find yourself struggling with the material, please come talk to me. We can talk through study habits and conceptual misunderstandings and mathematical challenges and make sure you have what you need to feel like you are being challenged but not overwhelmed.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#deadlines",
+    "href": "syllabus.html#deadlines",
+    "title": "Syllabus",
+    "section": "Deadlines and Late Policy",
+    "text": "Deadlines and Late Policy\nThere is so much flexibility in the number of points you can earn in this class, so there will be no extensions provided on practice problems, PCQs, or metacognition assignments except in case of major extenuating circumstances.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#LLMs",
+    "href": "FAQ.html#LLMs",
+    "title": "FAQ",
+    "section": "Can I use ChatGPT in this class?",
+    "text": "Can I use ChatGPT in this class?\nPer the course technology policy",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#techpolicy",
+    "href": "syllabus.html#techpolicy",
+    "title": "Syllabus",
+    "section": "Technology Policy",
+    "text": "Technology Policy\n\nUse of LLMs\nLarge Language Models and agentic AI are so ubiquitous now that it seems almost silly to say so. You are facing the great challenge of how to navigate a world filled with AI-generated information and where the advice changes from minute to minute about whether you must become an AI expert or avoid AI to succeed.\nBut you are also a student at Bates College, where our mission includes educating “the whole person through creative and rigorous scholarship in a collaborative residential community” and “preparing leaders sustained by a love of learning and a commitment to responsible stewardship of the wider world.” And that means learning to cultivate your very human skills of creativity and critical thinking, and engaging in the productive struggle that leads to growth and learning. AI presents major challenges to all these values, from the environmental impacts of building and maintaining them and the traumatizing and exploitative nature of the labor involved in training them to the way cognitive offload reduces our capacity for independent thinking and the emotional offloading erodes our ability to live in community.\nBut it is up to you, as adults, to learn how you want to exist in the world we are creating right now. So while I will not fully ban the use of AI in this course, I will ask you to proceed very thoughtfully and carefully if you do use AI, and to follow these guidelines.\n\nIf you are going to use AI in any way in this class, you must first complete the AI assignment in the metacognition grade category. This is part of your grade anyway, so it benefits you to do this.\nIf you use AI in any way, even just to ask a quick question and clarify something, you must cite your source. This means including a record of the prompt and the response, as well as one sentence discussing what you learned from this use of AI.\nYou may never submit something as your own work if it was done by AI, even if you hand-copied it. Just like you wouldn’t claim your classmate’s work as your own, you can’t claim an LLM’s work either.\n\nViolation of this policy, along any of the three requirements, will result in a zero on the assignment in question.\n\n\nUse of technology during class time\nTechnology is completely infused into our lives, and I’m not trying to convince anyone to stop using it. As a computational physicist, it’s my literal vocation to use digital technology, and as a teacher, I spend many hours a day staring at my screen to write lesson plans and respond to emails. But it’s important to know that as useful a tool as technology is, it can also inhibit us.\nFirst, the science. While we all believe ourselves to be excellent multitaskers, studies show that we can’t actually focus on more than one thing at a time - what we are doing is actually rapidly task switching between one task and the next, and that task switching takes time and energy, making us do both tasks more poorly. This means that if you’re toggling between your email, social media, text messages, or whatever other content might be up on your laptop, phone, or tablet in class, you are going to have a harder time learning the content in class and a harder time doing whatever else you are trying to do. In addition, studies have found that merely being in the presence of our smartphones can cause us to be distracted by them.\nI have found this to be true, and as a general rule, if I’m working on something that requires my focus, such as writing a lesson plan or working on research projects, I have a box in my office that I put my phone in so I can’t be distracted by it.\nOur goal in this class is to learn, and class time is an important time set aside for us to meet together in community to work towards the learning goals. In order to make sure you get the most out of that time, and to help support your classmates to not be distracted, the policy for devices is the following:\n\nPhones must be on silent and out of view (to you and your classmates) throughout the duration of class\nLaptops and tablets are *opt in** only, meaning if you wish to use one and do not already have accommodations to use one with the Office of Accessible Education, you must submit a request to use a specific device or devices in the welcome form, along with an explanation of how each device will be conducive to your learning and how you will use it\n\nPlease note that there is a handy way to not only follow the course policy on cell phones, but also earn some extra credit, so I encourage you to take advantage of that to not only help you practice the habit of putting your phone away when it’s time to focus, but also get yourself a grade boost.\nOne final note: I recognize that sometimes we have situations that require us to be reachable, so if you have a special circumstance that means you need to be able to take a call when it comes in or receive an email notification, please talk to me about an exception to the policy.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#llms",
+    "href": "FAQ.html#llms",
+    "title": "FAQ",
+    "section": "Can I use ChatGPT in this class?",
+    "text": "Can I use ChatGPT in this class?\nPer the course technology policy",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#genAI",
+    "href": "FAQ.html#genAI",
+    "title": "FAQ",
+    "section": "Can I use Generative AI in this class?",
+    "text": "Can I use Generative AI in this class?\nI won’t ban generative AI models, but I want you to be thoughtful and careful in how you use them and remember that your priority in this class is to learn. Asking someone to lift weights for you will not make you stronger, and asking Gemini to do your homework will not help you learn. Per the course technology policy, there are some restrictions on AI use in this class. Please read that policy closely before using AI, and note that violation of the policy will result in a zero on the assignment or assessment.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#cat",
+    "href": "FAQ.html#cat",
+    "title": "FAQ",
+    "section": "Do we have a CAT for this class?",
+    "text": "Do we have a CAT for this class?\nYes! We do have a CAT assigned to this class. You can find that person’s information and their hours in Lyceum.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "coursecontent.html",
+    "href": "coursecontent.html",
+    "title": "Course Content and Resources",
+    "section": "",
+    "text": "The Four-Step Problem Solving MethodUsing Math ToolsForces and TorquesMotionWork and EnergyMomentum and ImpulseAngular Momentum\n\n\nThere is only one learning objective for this bundle, and it’s properly using the four-step method when solving a problem. If you do all four steps below, you will receive credit for this learning objective on relevant problems.\n\nDraw a diagram\nGather your information – choose a coordinate system, identify “knowns” in the problem statement (which are allowed to be in your answer), list “unknowns” which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)\nSolve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.\nAssess your answer. Check units and use some logical reasoning to defend your answer (or explain why it’s wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)\n\n\n\nA lot of problem solving in this class requires applying mathematical tools you’ve learned in other classes. Here are the various learning objectives you may see that involve using math tools\n\nExtremize a function by taking a derivative\nTake a limit to determine how an expression changes as parameters get large\nUse a Taylor series to determine how an expression changes as parameters get small\nDetermine an angle of a right triangle\nDetermine the length of a side of a right triangle\nUse a trig identity to simplify an expression\nSet up an integral by determining the differential components\nCalculate an indefinite integral\nCalculate a definite integral\nSolve an ODE by separating the variables and integrating\nSolve a system of N equations (or inequalities) with N unknowns\nProperly set up the coordinate system for a system using polar coordinates\nConvert between coordinate systems\n\n\n\nHere are the learning objectives you may see that involve forces and torques:\n\nIdentify the forces acting on an object\nConstruct a free body diagram that accounts for all forces on an object\nResolve a force into components in your chosen coordinate system\nUse inequalities to analyze static friction conditions\nIdentify whether static friction is maximized\nBalance forces on a static object\nCalculate the torque from a force relative to a pivot\nConstruct a torque diagram with a chosen pivot\nBalance torques on a static object\nApply Newton’s second law to connect the forces on an object to its acceleration\nConstruct an interaction diagram that accounts for forces between objects in your system and external forces\nApply Newton’s third law to find forces between objects in a multi-object system\n\n\n\nHere are the learning objectives you may see that involve motion and kinematics:\n\nConstruct the equations of motion using N2L\nCalculate the velocity of an object from its acceleration vector\nCalculate the position of an object from its velocity vector\nDerive or interpret the expressions for acceleration in polar coordinates\nDerive or interpret the expressions for velocity in polar coordinates\nCalculate kinematic variables (distance traveled, time, final velocity, launch angle, etc) given equations of motion\nUse or explain the decoupling of x and y motion in projectile motion\n\n\n\nHere are the learning objectives you may see that involve work and energy:\n\nDefine a central force\nExplain the role of conservative forces in energy conservation\nApply the law of universal gravitation to calculate the potential energy of spherical masses\nApply Hooke’s Law to calculate the potential energy of masses on springs\nCalculate the kinetic energy of an object\nCalculate the potential energy of an object due to a spring force\nDistinguish between kinetic, potential, and total mechanical energy\nDetermine whether mechanical energy is conserved\nRecognize turning points and forbidden regions using potential energy diagrams\nCalculate a position or speed using the conservation of mechanical energy equation\nCalculate the work done by a force\nCalculate a force, displacement, or speed using the work-energy theorem\n\n\n\nLearning objectives to come in Module B\n\n\nLearning objectives to come in Module B",
+    "crumbs": [
+      "Course Content and Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Personal and Professional Resources",
+    "section": "",
+    "text": "Website: SASC General Study Strategies\nVideo: how to get the most out of studying\nArticle: how to take notes\nArticle: the Urgent/Important Matrix for prioritization\nVideo: the Urgent/Important Matrix for prioritization",
+    "crumbs": [
+      "Personal and Professional Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#contentresources",
+    "href": "resources.html#contentresources",
+    "title": "Resources",
+    "section": "",
+    "text": "There is only one learning objective for this bundle, and it’s properly using the four-step method when solving a problem. If you do all four steps below, you will receive credit for this learning objective on relevant problems.\n\nDraw a diagram\nGather your information – choose a coordinate system, identify “knowns” in the problem statement (which are allowed to be in your answer), list “unknowns” which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)\nSolve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.\nAssess your answer. Check units and use some logical reasoning to defend your answer (or explain why it’s wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)\n\n\n\n\nThe Euler–Lagrange equations help us find how a system moves. They come from the idea that nature chooses the path that makes the “action” (a quantity built from kinetic and potential energy) as small as possible. Instead of focusing directly on forces, these equations let us work with energy and generalized coordinates, which often makes solving problems—especially with constraints—much simpler.\nAll the equations we will use this semester arise from the Euler-Lagrange equations, from energy conservation to Newton’s second law to conservation of momentum.\nTo use them, you have to construct the Lagrangian (L = T -V), determine the proper coordinates to use (i.e. what coordinates will you use to describe your problem and your solution?), and then plug them into the Euler-Lagrange equation, which involves taking derivatives of the Lagrangian with respect to the coordinates you’ve chosen. After simplifying the results, you will have the equations of motion for the system.\n\n\n\n\nApproximationsCurvilinear Coordinate SystemsIntegrals\n\n\nUsing Taylor/MacLauren series when dealing with something small\nList of common series\n\n\nWorking in polar coordinates, including:\n\nTime derivatives of vectors in polar coordinates\nTime dependence of unit vectors in polar coordinates\nTranslating between Cartesian and polar coordinates\n\n\n\nSeparating and integrating simple ODEs\nCommon integrals and derivatives",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#the-four-step-problem-solving-method",
+    "href": "resources.html#the-four-step-problem-solving-method",
+    "title": "Resources",
+    "section": "",
+    "text": "There is only one learning objective for this bundle, and it’s properly using the four-step method when solving a problem. If you do all four steps below, you will receive credit for this learning objective on relevant problems.\n\nDraw a diagram\nGather your information – choose a coordinate system, identify “knowns” in the problem statement (which are allowed to be in your answer), list “unknowns” which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)\nSolve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.\nAssess your answer. Check units and use some logical reasoning to defend your answer (or explain why it’s wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#eulerlagrange",
+    "href": "resources.html#eulerlagrange",
+    "title": "Resources",
+    "section": "",
+    "text": "The Euler–Lagrange equations help us find how a system moves. They come from the idea that nature chooses the path that makes the “action” (a quantity built from kinetic and potential energy) as small as possible. Instead of focusing directly on forces, these equations let us work with energy and generalized coordinates, which often makes solving problems—especially with constraints—much simpler.\nAll the equations we will use this semester arise from the Euler-Lagrange equations, from energy conservation to Newton’s second law to conservation of momentum.\nTo use them, you have to construct the Lagrangian (L = T -V), determine the proper coordinates to use (i.e. what coordinates will you use to describe your problem and your solution?), and then plug them into the Euler-Lagrange equation, which involves taking derivatives of the Lagrangian with respect to the coordinates you’ve chosen. After simplifying the results, you will have the equations of motion for the system.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#mathtools",
+    "href": "resources.html#mathtools",
+    "title": "Resources",
+    "section": "",
+    "text": "Equations & InequalitiesExp & LogVectors & TrigExtremesCoordinate SystemsIntegrals & ODEs\n\n\nSolving systems of equations\nSystems of inequalities\n\n\nLogarithm properties\nExponent properties\n\n\nVector review\nThe cross product\nTrig equations and identities\nTrig cheat sheet\n\n\nIntro to Taylor series\nList of common series\nFinding local mins and maxes\nTaking limits\n\n\nPolar Coordinates\n\n\nThe separate and integrate method\nCommon integrals and derivatives",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#self-care-and-stress-resources",
+    "href": "resources.html#self-care-and-stress-resources",
+    "title": "Personal and Professional Resources",
+    "section": "Self-care and stress resources",
+    "text": "Self-care and stress resources\nSelf-care flow chart\nBates College well-being site",
+    "crumbs": [
+      "Personal and Professional Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#crisis-resources",
+    "href": "resources.html#crisis-resources",
+    "title": "Personal and Professional Resources",
+    "section": "Crisis resources",
+    "text": "Crisis resources\nBates Counseling and Psychological Services\nBates Title IX and Civil Rights Compliance Office: If you are experiencing harassment or discrimination, you can get help here.\nPlease note that I am a responsible reporter, which means that I am required to share with the Title IX Coordinator “all knowledge of discrimination harassment, and/or retaliation witnessed or shared with” me.\nYou can always choose what you reveal to me if you come to speak with me about something that’s going on. I won’t ever insist that you tell me details that you don’t wish to share.\nThe confidential Resource Advisor is not required to disclose, and is a great resource if you’re facing something big and need some guidance.",
+    "crumbs": [
+      "Personal and Professional Resources"
+    ]
+  },
+  {
+    "objectID": "coursecontent.html#the-four-step-problem-solving-method-1",
+    "href": "coursecontent.html#the-four-step-problem-solving-method-1",
+    "title": "Course Content and Resources",
+    "section": "The Four-Step Problem Solving Method",
+    "text": "The Four-Step Problem Solving Method\nThere is only one learning objective for this bundle, and it’s properly using the four-step method when solving a problem. If you do all four steps below, you will receive credit for this learning objective on relevant problems.\n\nDraw a diagram\nGather your information – choose a coordinate system, identify “knowns” in the problem statement (which are allowed to be in your answer), list “unknowns” which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)\nSolve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.\nAssess your answer. Check units and use some logical reasoning to defend your answer (or explain why it’s wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)",
+    "crumbs": [
+      "Course Content and Resources"
+    ]
+  },
+  {
+    "objectID": "coursecontent.html#eulerlagrange",
+    "href": "coursecontent.html#eulerlagrange",
+    "title": "Course Content and Resources",
+    "section": "The Euler-Lagrange Equations",
+    "text": "The Euler-Lagrange Equations\nThe Euler–Lagrange equations help us find how a system moves. They come from the idea that nature chooses the path that makes the “action” (a quantity built from kinetic and potential energy) as small as possible. Instead of focusing directly on forces, these equations let us work with energy and generalized coordinates, which often makes solving problems—especially with constraints—much simpler.\nAll the equations we will use this semester arise from the Euler-Lagrange equations, from energy conservation to Newton’s second law to conservation of momentum.\nTo use them, you have to construct the Lagrangian (L = T -V), determine the proper coordinates to use (i.e. what coordinates will you use to describe your problem and your solution?), and then plug them into the Euler-Lagrange equation, which involves taking derivatives of the Lagrangian with respect to the coordinates you’ve chosen. After simplifying the results, you will have the equations of motion for the system.",
+    "crumbs": [
+      "Course Content and Resources"
+    ]
+  },
+  {
+    "objectID": "coursecontent.html#mathtools",
+    "href": "coursecontent.html#mathtools",
+    "title": "Course Content and Resources",
+    "section": "Math Review",
+    "text": "Math Review\n\nEquations & InequalitiesExp & LogVectors & TrigExtremesCoordinate SystemsIntegrals & ODEs\n\n\nSolving systems of equations\nSystems of inequalities\n\n\nLogarithm properties\nExponent properties\n\n\nVector review\nThe cross product\nTrig equations and identities\nTrig cheat sheet\n\n\nIntro to Taylor series\nList of common series\nFinding local mins and maxes\nTaking limits\n\n\nPolar Coordinates\n\n\nThe separate and integrate method\nCommon integrals and derivatives",
+    "crumbs": [
+      "Course Content and Resources"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#recording",
+    "href": "syllabus.html#recording",
+    "title": "Syllabus",
+    "section": "Class Recording Policy",
+    "text": "Class Recording Policy\nIn line with our shared values around Academic Integrity and Conduct as articulated in the Student Code of Conduct, the Dean of Faculty office reminds all students that screen capturing or making audio/video recordings of synchronous or asynchronous meetings, lectures, discussions, course materials, or other classroom activities without the prior knowledge and consent of all parties is prohibited. This applies to the use of tape or digital recorders, cell phones, smartphones, computers, and other devices capable of creating a screen capture or making audio/video recordings. Likewise, the editing, sharing, or use of recorded or digitally shared course content outside of their assigned or intended purpose is also prohibited. Students with disabilities who wish to record classroom activity should contact the Office of Accessible Education for information about appropriate protocols.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#changes",
+    "href": "FAQ.html#changes",
+    "title": "FAQ",
+    "section": "Can the syllabus change?",
+    "text": "Can the syllabus change?\nYes, under certain conditions. The schedule may change in small ways – this will happen if there is a disruption in the schedule (e.g. I am sick and have to cancel class, a snow day prevents us from meeting, some other emergency or surprise causes class to be cancelled). More often, what will happen is we will need a little more time on a topic, and I will push other topics a day or two. I build in a number of “catch-up days” into the schedule in order to make sure that when this happens, it doesn’t require a total rewrite of the class.\nThe syllabus may also change if we agree together as a class to cut or modify an assignment, or if I determine that the grading scheme has set the bar too high. I will never modify assignments or grading in a way that harms your grade, and if a change to either of those has you concerned, please come talk to me and we will determine together a reasonable alternative if that is needed.\nFinally, I reserve the right always to modify typos, etc. If you spot one of these, let me know, so I can fix it!\nAny changes to the syllabus will be documented in the changelog",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "changelog.html",
+    "href": "changelog.html",
+    "title": "Changelog",
+    "section": "",
+    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nAug 26, 2026\nN/A\nFirst version of syllabus"
+  }
+]
