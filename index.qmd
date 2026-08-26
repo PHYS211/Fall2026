@@ -1,0 +1,66 @@
+---
+title: "PHY 211 Fall 2026"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+
+---
+
+
+Welcome to the Fall 2026 class of PHYS 211!
+
+If this is your first time on the course website, I recommend you 
+
+<a target="_blank" class="btn-garnet" href=starthere.qmd>Start Here</a>
+
+# Land Acknowledgment
+
+*We acknowledge that we are on Indigenous land: the territory of the Wabanaki people. We are grateful for the opportunity to live, learn, and grow on this sacred land, and extend our respect to citizens of this nation who live here today, and to their ancestors who have lived here for hundreds of generations. We recognize the repeated violations of sovereignty, territory, and water perpetrated by invaders who have impacted the original inhabitants of this land for 400 years. We know this acknowledgement is insufficient, and does not undo the harm that has been done and continues to be perpetrated now against Indigenous people and their land and water.*
+
+Bates College does not have an official land acknowledgment, but I felt it was important to include one as a person who lives and works on these stolen lands. A land acknowledgment is only a start, and should not be seen as absolving from responsibility. For more, see [this excellent article in The Bates Student](https://thebatesstudent.com/18429/news/does-bates-deserve-a-land-acknowledgement/)
+
+I choose to include a land acknowledgment in my syllabus because the field of Physics is not neutral--the people who are able to pursue this work are products of systemic structures that deny opportunities to many communities, and as a result, our work and our culture is limited by bias. To consider Physics or any other scientific subject to be "neutral" or unrelated to issues of social structures is misleading at best. This applies to all marginalized identities, not just Indigenous groups, but the history of sovereignty violations to Indigenous lands in the Americas is crucial to recognize as an institution of higher learning built on this land.
+
+If you want to know more about the status of Indigenous groups here in Maine, check out the work being done by [Wabanaki Reach](https://www.wabanakireach.org/).
+
+
+# About this course
+
+Does friction slow us down, or is it what allows us to move at all?
+
+If satellites are being pulled down by gravity, what allows them to stay in orbit?
+
+How can figure skaters change how fast they spin without anyone pushing or pulling on them?
+
+If a bowling ball and a tennis ball fall at the same speed, why does the bowling ball "hit harder"?
+
+These are all questions you will be able to answer by the end of this class, using the laws of classical mechanics, some mathematics, and your own problem solving skills. This class will open a door into the physics major and prepare you to answer complicated questions about motion, forces, and energy.
+
+
+## Course Description
+
+You can see the PHYS 211 course description [here](https://phys211.github.io/).
+
+## Course Objectives
+
+By the end of this course, you will be able to
+
+-   Demonstrate skills of approximation and estimation to gain insight into physical situations and to check if solutions are reasonable
+-   Implement strategies that build intuition for setting up and approaching problems in mechanics.  
+-   Connect mathematical skills with physical concepts to solve problems related to force, momentum, energy, and angular momentum
+-   Use reflection and recall to monitor and evaluate your own learning, connecting to the principles of a growth mindset
+-   Collaborate with fellow students, recognizing their strengths and humanity, in ways that foster mutually supportive relationships and a sense of belonging in the community
+
+
+## Course Topics
+
+This course covers the following content:
+
+-   Problem-solving skills
+-   Kinematics in multiple coordinate systems
+-   Newton's laws and forces
+-   Collisions and momentum
+-   Energy transfer and conservation laws
+-   The Euler-Langrange equations
+-   Rotational kinematics, torque, and angular momentum

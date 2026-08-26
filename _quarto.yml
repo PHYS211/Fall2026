@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "PHYS 211 Fall 2025"
+  title: "PHYS 211 Fall 2026"
   navbar:
     background: primary #color of background is primary color in palette
     search: true
@@ -14,7 +14,7 @@ website:
       - href: https://phys211.github.io/
         text: "Course Description"
         target: _blank #makes it open in new page
-      - href: https://docs.google.com/spreadsheets/d/1Kc-CtZYLF3HwOKw7-evwPCMCf3C1m3t2AZBAinf3KL8/edit?usp=sharing
+      - href: https://docs.google.com/spreadsheets/d/1YAsNtwv3fVJGBB0jJE1co742owqrAibKPeEpugopHsM/edit?usp=sharing
         text: "Schedule" 
         target: _blank #makes it open in new page
       - sidebar:syllabus

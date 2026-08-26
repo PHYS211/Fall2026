@@ -1,0 +1,180 @@
+---
+title: "Course Content and Resources"
+format: 
+  html:
+    toc: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+---
+# The Eight Learning Objective Bundles
+
+::: panel-tabset
+## The Four-Step Problem Solving Method
+
+
+There is only one learning objective for this bundle, and it's properly using the four-step method when solving a problem. If you do all four steps below, you will receive credit for this learning objective on relevant problems.
+
+1. Draw a diagram
+
+2. Gather your information -- choose a coordinate system, identify "knowns" in the problem statement (which are allowed to be in your answer), list "unknowns" which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)
+
+3. Solve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.
+
+4. Assess your answer. Check units and use some logical reasoning to defend your answer (or explain why it's wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)
+
+
+## Using Math Tools
+
+A lot of problem solving in this class requires applying mathematical tools you've learned in other classes. Here are the various learning objectives you may see that involve using math tools
+
+- Extremize a function by taking a derivative
+- Take a limit to determine how an expression changes as parameters get large
+- Use a Taylor series to determine how an expression changes as parameters get small
+- Determine an angle of a right triangle
+- Determine the length of a side of a right triangle
+- Use a trig identity to simplify an expression
+- Set up an integral by determining the differential components
+- Calculate an indefinite integral
+- Calculate a definite integral
+- Solve an ODE by separating the variables and integrating
+- Solve a system of N equations (or inequalities) with N unknowns
+- Properly set up the coordinate system for a system using polar coordinates
+- Convert between coordinate systems
+
+
+## Forces and Torques
+
+Here are the learning objectives you may see that involve forces and torques:
+
+- Identify the forces acting on an object
+- Construct a free body diagram that accounts for all forces on an object
+- Resolve a force into components in your chosen coordinate system
+- Use inequalities to analyze static friction conditions
+- Identify whether static friction is maximized
+- Balance forces on a static object
+- Calculate the torque from a force relative to a pivot
+- Construct a torque diagram with a chosen pivot
+- Balance torques on a static object
+- Apply Newton's second law to connect the forces on an object to its acceleration
+- Construct an interaction diagram that accounts for forces between objects in your system and external forces
+- Apply Newton's third law to find forces between objects in a multi-object system
+
+## Motion
+
+Here are the learning objectives you may see that involve motion and kinematics:
+
+- Construct the equations of motion using N2L
+- Calculate the velocity of an object from its acceleration vector
+- Calculate the position of an object from its velocity vector
+- Derive or interpret the expressions for acceleration in polar coordinates
+- Derive or interpret the expressions for velocity in polar coordinates
+- Calculate kinematic variables (distance traveled, time, final velocity, launch angle, etc) given equations of motion
+- Use or explain the decoupling of x and y motion in projectile motion
+
+
+## Work and Energy
+
+Here are the learning objectives you may see that involve work and energy:
+
+- Define a central force
+- Explain the role of conservative forces in energy conservation
+- Apply the law of universal gravitation to calculate the potential energy of spherical masses
+- Apply Hooke's Law to calculate the potential energy of masses on springs
+- Calculate the kinetic energy of an object
+- Calculate the potential energy of an object due to a spring force
+- Distinguish between kinetic, potential, and total mechanical energy
+- Determine whether mechanical energy is conserved
+- Recognize turning points and forbidden regions using potential energy diagrams
+- Calculate a position or speed using the conservation of mechanical energy equation
+- Calculate the work done by a force
+- Calculate a force, displacement, or speed using the work-energy theorem
+
+
+## Momentum and Impulse
+
+Learning objectives to come in Module B
+
+
+## Angular Momentum
+
+Learning objectives to come in Module B
+
+:::
+
+# Math and Physics Resources {#contentresources}
+
+## The Four-Step Problem Solving Method
+
+
+There is only one learning objective for this bundle, and it's properly using the four-step method when solving a problem. If you do all four steps below, you will receive credit for this learning objective on relevant problems.
+
+1. Draw a diagram
+
+2. Gather your information -- choose a coordinate system, identify "knowns" in the problem statement (which are allowed to be in your answer), list "unknowns" which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)
+
+3. Solve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.
+
+4. Assess your answer. Check units and use some logical reasoning to defend your answer (or explain why it's wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)
+
+
+## The Euler-Lagrange Equations {#eulerlagrange}
+
+The Euler–Lagrange equations help us find how a system moves. They come from the idea that nature chooses the path that makes the "action" (a quantity built from kinetic and potential energy) as small as possible. Instead of focusing directly on forces, these equations let us work with energy and generalized coordinates, which often makes solving problems—especially with constraints—much simpler.
+
+All the equations we will use this semester arise from the Euler-Lagrange equations, from energy conservation to Newton's second law to conservation of momentum.
+
+To use them, you have to construct the Lagrangian (L = T -V), determine the proper coordinates to use (i.e. what coordinates will you use to describe your problem and your solution?), and then plug them into the Euler-Lagrange equation, which involves taking derivatives of the Lagrangian with respect to the coordinates you've chosen. After simplifying the results, you will have the equations of motion for the system.
+
+## Math Review {#mathtools}
+
+::: panel-tabset
+### Equations & Inequalities
+
+[Solving systems of equations](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations)
+
+[Systems of inequalities](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-3)
+
+### Exp & Log
+
+[Logarithm properties](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-prop/a/properties-of-logarithms)
+
+[Exponent properties](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-exponent-properties/a/exponent-properties-review)
+
+### Vectors & Trig
+
+[Vector review](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors?utm_account=Paid_GoogleAds&utm_campaignname=&utm_term=&utm_campaign=0426_District+Awareness_Pmax&utm_source=adwords&utm_medium=ppc&hsa_acc=6941206222&hsa_cam=23747946370&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23747947585&gbraid=0AAAAADmu8nPdbRpjS99NbqRFS1AQHYAqg&gclid=CjwKCAjw8arQBhB9EiwAfIKdQkoqhuaIPBmHLTJeDoPFBEhJR0IY7_YunoX9DuYqq5_sgtDCBwAEZRoCw9kQAvD_BwE)
+
+[The cross product](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-cross-product-introduction)
+
+[Trig equations and identities](https://www.khanacademy.org/math/trigonometry/trig-equations-and-identities)
+
+[Trig cheat sheet](https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf)
+
+
+### Extremes
+
+[Intro to Taylor series](https://www.khanacademy.org/math/calculus-2/cs2-series/cs2-taylor-and-maclaurin-polynomials-intro/v/maclaurin-and-taylor-series-intuition)
+
+[List of common series](https://en.wikipedia.org/wiki/Taylor_series#List_of_Maclaurin_series_of_some_common_functions)
+
+[Finding local mins and maxes](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-2/v/extreme-value-theorem)
+
+[Taking limits](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/introduction-to-limits-hd)
+
+### Coordinate Systems
+
+[Polar Coordinates](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/v/polar-coordinates-1)
+
+### Integrals & ODEs
+
+[The separate and integrate method](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-6/v/separable-differential-equations-introduction)
+
+[Common integrals and derivatives](https://tutorial.math.lamar.edu/pdf/common_derivatives_integrals.pdf)
+
+:::
+
+
