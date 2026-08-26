@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "PHYS 211 Syllabus"
 format: 
   html:
     toc: true
@@ -100,12 +100,14 @@ One final note: I recognize that sometimes we have situations that require us to
 In line with our shared values around Academic Integrity and Conduct as articulated in the Student Code of Conduct, the Dean of Faculty office reminds all students that screen capturing or making audio/video recordings of synchronous or asynchronous meetings, lectures, discussions, course materials, or other classroom activities without the prior knowledge and consent of all parties is prohibited. This applies to the use of tape or digital recorders, cell phones, smartphones, computers, and other devices capable of creating a screen capture or making audio/video recordings. Likewise, the editing, sharing, or use of recorded or digitally shared course content outside of their assigned or intended purpose is also prohibited. Students with disabilities who wish to record classroom activity should contact the Office of Accessible Education for information about appropriate protocols.
 
 
+
+
 ## Assignments and Grading {#assignments}
 There are three main categories for grade items in this class: 
 
 1. [Practice](#practicegrade): This work is low-stakes work intended to prepare you for the assessments in this class. It includes pre-class quizzes on the reading, a variety of homework problems, and in-class group work. This will make up 50% of your final grade.
 
-2. [Proficiency](#LOgrade): Another 40% of your grade will be made up of 8 bundles of learning objectives. You will have opportunities to demonstrate your proficiency in these learning objectives through in-class tests and the problem projects.
+2. [Proficiency](#LOgrade): Another 40% of your grade will be made up of 7 bundles of learning objectives. You will have opportunities to demonstrate your proficiency in these learning objectives through in-class tests and the problem projects.
 
 3. [Metacognition](#metacognitiongrade): One of the most important skills you will learn in college is how to learn. This is called metacognition, and I have built into the grade in this class a chance to practice these metacognitive skills. 10% of your final grade will come from the metacognition assignments in this category. 
 
@@ -163,6 +165,18 @@ The topics are:
 -   Work and Energy
 -   Momentum and Impulse
 -   Angular Momentum
+
+
+
+
+
+
+
+
+
+
+
+
 
 ::: panel-tabset
 #### In-Class Assessments {#assessments}
