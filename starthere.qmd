@@ -50,7 +50,7 @@ The schedule for this class is in a [google doc](https://docs.google.com/spreads
 
 Do you feel a little rusty with some of your math skills? Is there a topic you struggled with in previous physics classes and need to ask some questions? You can always come to office hours or schedule an appointment with me in calendly (see Lyceum for the link), but I've also put together a page with resources to support you.
 
-On [this page](resources.qmd), you will find a database of math videos if you need to brush up on some calculus you may have forgotten. You will also find a list of resources that might help if you're just having a tough time managing your workload, taking notes, or figuring out what to prioritize. 
+On [this page](coursecontent.qmd), you will find a database of math videos if you need to brush up on some calculus you may have forgotten. You will also find a list of resources that might help if you're just having a tough time managing your workload, taking notes, or figuring out what to prioritize. 
 
 There are also links on this page to mental health resources available on campus, including CAPS and the Title IX office.
 
