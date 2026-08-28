@@ -89,7 +89,8 @@ I have found this to be true, and as a general rule, if I'm working on something
 Our goal in this class is to learn, and class time is an important time set aside for us to meet together in community to work towards the learning goals. In order to make sure you get the most out of that time, and to help support your classmates to not be distracted, the policy for devices is the following:
 
 -   Phones must be on silent and out of view (to you and your classmates) throughout the duration of class
--   Laptops and tablets are *opt in** only, meaning if you wish to use one and do not already have accommodations to use one with the Office of Accessible Education, you must submit a request to use a specific device or devices in the [welcome form](https://forms.gle/NUZQSNaDPxXRTite8), along with an explanation of how each device will be conducive to your learning and how you will use it
+-   Laptops and tablets are *opt in* only, meaning if you wish to use one and do not already have accommodations to use one with the Office of Accessible Education, you must submit a request to use a specific device or devices in the [welcome form](https://forms.gle/NUZQSNaDPxXRTite8), along with an explanation of how each device will be conducive to your learning and how you will use it
+-   If I approve laptop use, laptops may only be open during lecture and individual work time. If we are working in groups on something, your laptop must be closed so you can be fully present with your group.
 
 Please note that there is a handy way to not only follow the course policy on cell phones, but also earn some [extra credit](#roundup), so I encourage you to take advantage of that to not only help you practice the habit of putting your phone away when it's time to focus, but also get yourself a grade boost.
 
@@ -98,8 +99,6 @@ One final note: I recognize that sometimes we have situations that require us to
 ## Class Recording Policy {#recording}
 
 In line with our shared values around Academic Integrity and Conduct as articulated in the Student Code of Conduct, the Dean of Faculty office reminds all students that screen capturing or making audio/video recordings of synchronous or asynchronous meetings, lectures, discussions, course materials, or other classroom activities without the prior knowledge and consent of all parties is prohibited. This applies to the use of tape or digital recorders, cell phones, smartphones, computers, and other devices capable of creating a screen capture or making audio/video recordings. Likewise, the editing, sharing, or use of recorded or digitally shared course content outside of their assigned or intended purpose is also prohibited. Students with disabilities who wish to record classroom activity should contact the Office of Accessible Education for information about appropriate protocols.
-
-
 
 
 ## Assignments and Grading {#assignments}
@@ -114,7 +113,7 @@ There are three main categories for grade items in this class:
 ### Practice {#practicegrade}
 Almost half of your grade will be made up of a collection of work I am calling "Practice." This includes reading the textbook and completing a pre-class reading quiz, solving problems and reflecting on your work, and taking timed practice tests to help you prepare for the in-class assessments. 
 
-**For every assignment in the Practice category, the late policy is the same. Work done before the due date will receive full credit. All work done after the due date will receive half credit.**
+*For every assignment in the Practice category, the late policy is the same. Work done before the due date will receive full credit. All work done after the due date will receive half credit.*
 
 This is the base of the learning pyramid, and so there is a lot of work in this category.
 
@@ -124,12 +123,14 @@ There will be 200 total points available in the Practice category, but the maxim
 #### Pre-Class Quizzes {#pcqs}
 These are simple, 8-question multiple choice quizzes based on the reading, intended mostly to strengthen your retention of what you read. These are due at 1PM on the day of class, and there will be 18 PCQs throughout the semester.
 
+*NOTE: PCQs are the only item in the "Practice" category which has a hard deadline. The quizzes close at 1PM the day of class and cannot be re-opened. But PCQs are a small portion of the category (max 36 points) so don't sweat missing a few.*
+
 #### Warm-up Problems {#warmup}
 These are a small set of problems selected for each week of new content (there are no warm-up problems during [Problem Project](#problemproject) weeks). There will be 2-3 warm up problems for each week, and I recommend you start with these. If you find them too easy, move on to the challenge problems.
 
 When you complete a problem, you can submit it on Lyceum. Once you do that, the solution will become available. You should check the solution against your own work and then fill out the reflection form for that problem in Lyceum. 
 
-**You will only get credit for a problem if you both submit a good faith attempt at the solution and fill out the reflection form.**
+*You will only get credit for a problem if you both submit a good faith attempt at the solution and fill out the reflection form.*
 
 
 #### Challenge Problems {#challenge}
@@ -138,7 +139,7 @@ These are a small set of problems selected for each week of new content (there a
 
 When you complete a problem, you can submit it on Lyceum. Once you do that, the solution will become available. You should check the solution against your own work and then fill out the reflection form for that problem in Lyceum. 
 
-**You will only get credit for a problem if you both submit a good faith attempt at the solution and fill out the reflection form.**
+*You will only get credit for a problem if you both submit a good faith attempt at the solution and fill out the reflection form.*
 
 
 #### Practice Tests {#practicetest}
@@ -147,14 +148,14 @@ I have designed one practice test for each test you will take in class. These ar
 
 Just like with the warm-up and challenge problems, submitting your work will get you the solution and a reflection form on Lyceum. This reflection form will ask you about how you felt you did on each of the learning objectives the test assessed, to help you understand how those learning objectives will appear.
 
-**You must make a good faith attempt at the practice test compare your work to the solution and reflect in order to get credit for the practice test.**
+*You must make a good faith attempt at the practice test compare your work to the solution and reflect in order to get credit for the practice test.*
 
 #### In-Class Group Work {#groupproblemsolving}
 Most days in class, there will be a chance for your group to solve a problem. If you are present and actively work with your team, and your team works on the problem but does not solve it, you will receive one point for that day. If you are present and actively work with your team, and your team successfully solves the problem, you will receive two points for that day.
 :::
 
 ### Proficiency in the Learning Objectives {#LOgrade}
-There will be seven topics with learning objectives that will be assessed in this class. Those can all be found on the [Course Content](#coursecontent) page. Each time you successfully demonstrate proficiency in a learning objective (which you can do through in-class tests and the problem project), you will earn one point towards that topic. The maximum number of points you can earn in each category is eight, but **there will be more than eight chances to achieve learning objectives in each topic.**
+There will be seven topics with learning objectives that will be assessed in this class. Those can all be found on the [Course Content](#coursecontent) page. Each time you successfully demonstrate proficiency in a learning objective (which you can do through in-class tests and the problem project), you will earn one point towards that topic. The maximum number of points you can earn in each category is eight, but *there will be more than eight chances to achieve learning objectives in each topic.*
 
 The topics are:
 
@@ -165,17 +166,6 @@ The topics are:
 -   Work and Energy
 -   Momentum and Impulse
 -   Angular Momentum
-
-
-
-
-
-
-
-
-
-
-
 
 
 ::: panel-tabset
@@ -189,13 +179,13 @@ There will also be a cumulative final, which I will design to contain the most-m
 #### Problem Project {#problemproject}
 At the end of each of our two modules, you and your group will spend one week designing a physics problem to test a subset of the learning objectives you have seen so far in class. 
 
-On Monday, your group will select **up to five learning objectives across no more than three topics** to assess, and then you will draft and solve a physics problem similar to the kinds of problems we will solve in class and on the homework. 
+On Monday, your group will select *up to five learning objectives across no more than three topics* to assess, and then you will draft and solve a physics problem similar to the kinds of problems we will solve in class and on the homework. 
 
 On Wednesday, you will receive draft problems from two other groups and you will try to solve them and give feedback to those two groups.
 
 On Friday, you will take the peer feedback you receive (from two different groups) and revise your problem. You will turn this problem in (typeset) by Monday of the next week. If the problem is clearly stated and solvable by your peers, then you will receive credit for each learning objective you selected depending on how well the problem actually assesses each learning objective.
 
-**You must be present in class and actively involved with your team on all three days to receive credit for the learning objectives your team achieves.**
+*You must be present in class and actively involved with your team on all three days to receive credit for the learning objectives your team achieves.*
 
 :::
 
@@ -203,7 +193,7 @@ On Friday, you will take the peer feedback you receive (from two different group
 
 You can earn a total of nine points towards metacognition, but you only need five to complete this category. These assignments are designed to get you thinking about how you engage with your learning.
 
-**The due dates on these assignments are fixed in order to support the process of self-reflection and growth. If you want to do these, you must complete them by the deadline posted in Lyceum**
+*The due dates on these assignments are fixed in order to support the process of self-reflection and growth. If you want to do these, you must complete them by the deadline posted in Lyceum*
 
 
 ::: panel-tabset
