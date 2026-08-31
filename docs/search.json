@@ -572,6 +572,16 @@
     "href": "changelog.html",
     "title": "Changelog",
     "section": "",
-    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nAug 28, 2026\nN/A\nFirst version of syllabus"
+    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nAug 28, 2026\nN/A\nFirst version of syllabus\n\n\nAug 31, 2026\nAdded FAQ for missing tests\nThis info was not included in the first draft"
+  },
+  {
+    "objectID": "FAQ.html#testmakeups",
+    "href": "FAQ.html#testmakeups",
+    "title": "FAQ",
+    "section": "What if I have to miss a test?",
+    "text": "What if I have to miss a test?\nIf you have to miss class on a test day to an approved excuse, you may take the test at the testing center. You must do this no more than 2 days before the test is given and no more than 7 days after, and you can request this option through AESS using this form. If you are not sure your absence is excused or you feel you have a special circumstance, come and talk to me about it and we will discuss the options.",
+    "crumbs": [
+      "FAQ"
+    ]
   }
 ]
