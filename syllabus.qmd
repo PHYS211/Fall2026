@@ -172,7 +172,7 @@ The topics are:
 
 ::: panel-tabset
 #### In-Class Assessments {#assessments}
-There will be 6 in-class assessments throughout the semester, each of which will be graded on a single-point rubric. That rubric will have a list of the learning objectives assessed by the test, and you will be graded on whether you demonstrated proficiency in that learning objective. If you are not sure how this will work, I recommend taking the first [practice test](#practicetests) as soon as possible, as that will help you see what this rubric will look like.
+There will be 6 in-class assessments throughout the semester, each of which will be graded on a single-point rubric. That rubric will have a list of the learning objectives assessed by the test, and you will be graded on whether you demonstrated proficiency in that learning objective. If you are not sure how this will work, I recommend taking the first [practice test](#practicetest) as soon as possible, as that will help you see what this rubric will look like.
 
 Each test is technically cumulative, but it will emphasize more recent topics over older ones.
 
