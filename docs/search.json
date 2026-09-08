@@ -222,7 +222,7 @@
     "href": "FAQ.html#where-do-i-get-my-textbook",
     "title": "FAQ",
     "section": "Where do I get my textbook?",
-    "text": "Where do I get my textbook?\nThe textbook for this class is “Introduction to Classical Mechanics” by David Morin (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.\nTo find the library copies, go to librarysearch.bates.edu and search for the course number or my name. Write down the book’s call number and ask for it at the library.",
+    "text": "Where do I get my textbook?\nThe textbook for this class is “Introduction to Classical Mechanics” by David Morin (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.\nTo find the library copies, go to librarysearch.bates.edu and search for the course number or my name. Write down the book’s call number and ask for it at the library.\n\nIf you’re not sure your version of the book is the correct edition, please check the table of contents. It should look like this:",
     "crumbs": [
       "FAQ"
     ]
@@ -572,7 +572,7 @@
     "href": "changelog.html",
     "title": "Changelog",
     "section": "",
-    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nAug 28, 2026\nN/A\nFirst version of syllabus\n\n\nAug 31, 2026\nAdded FAQ for missing tests\nThis info was not included in the first draft\n\n\nSep 3, 2026\nFixed a broken link on the syllabus page\nThe link was broken :)"
+    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nAug 28, 2026\nN/A\nFirst version of syllabus\n\n\nAug 31, 2026\nAdded FAQ for missing tests\nThis info was not included in the first draft\n\n\nSep 3, 2026\nFixed a broken link on the syllabus page\nThe link was broken :)\n\n\nSep 8, 2026\nAdded a picture of the book’s table of contents\nTo make sure you can find the right version of th ebook"
   },
   {
     "objectID": "FAQ.html#testmakeups",

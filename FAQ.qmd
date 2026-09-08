@@ -25,6 +25,10 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ![](images/Morin.jpg){width=200}
 
+If you're not sure your version of the book is the correct edition, please check the table of contents. It should look like this:
+
+![](images/MorinTOC.png){width=200}
+
 ## When are your office hours? {#officehours}
 
 Office hours: 
