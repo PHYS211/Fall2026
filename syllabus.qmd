@@ -104,9 +104,9 @@ In line with our shared values around Academic Integrity and Conduct as articula
 ## Assignments and Grading {#assignments}
 There are three main categories for grade items in this class: 
 
-1. [Practice](#practicegrade): This work is low-stakes work intended to prepare you for the assessments in this class. It includes pre-class quizzes on the reading, a variety of homework problems, and in-class group work. This will make up 50% of your final grade.
+1. [Practice](#practicegrade): This work is low-stakes work intended to prepare you for the assessments in this class. It includes pre-class quizzes on the reading, a variety of homework problems, and in-class group work. This will make up 40% of your final grade.
 
-2. [Proficiency](#LOgrade): Another 40% of your grade will be made up of 7 bundles of learning objectives. You will have opportunities to demonstrate your proficiency in these learning objectives through in-class tests and the problem projects.
+2. [Proficiency](#LOgrade): Half(50%) of your grade will be made up of 7 bundles of learning objectives. You will have opportunities to demonstrate your proficiency in these learning objectives through in-class tests and the problem projects.
 
 3. [Metacognition](#metacognitiongrade): One of the most important skills you will learn in college is how to learn. This is called metacognition, and I have built into the grade in this class a chance to practice these metacognitive skills. 10% of your final grade will come from the metacognition assignments in this category. 
 

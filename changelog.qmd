@@ -12,4 +12,5 @@ editor: source
 | Aug 31, 2026 | Added FAQ for missing tests | This info was not included in the first draft |
 | Sep 3, 2026  | Fixed a broken link on the syllabus page | The link was broken :) |
 | Sep 8, 2026  | Added a picture of the book's table of contents | To make sure you can find the right version of th ebook |
+| Oct 2, 2026  | Added Khan Academy physics resources to course content page. Fixed typo on grade percentages by category.
 : Syllabus changes {.striped .hover}

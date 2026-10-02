@@ -107,6 +107,10 @@ Learning objectives to come in Module B
 
 # Math and Physics Resources {#contentresources}
 
+## External Resources 
+
+Khan Academy has wonderful videos not just on the math you need for this class, but also physics from previous courses. You can find their physics archive [here](https://www.khanacademy.org/science/physics). 
+
 ## The Four-Step Problem Solving Method
 
 
