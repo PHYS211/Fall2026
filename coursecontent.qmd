@@ -96,7 +96,17 @@ Here are the learning objectives you may see that involve work and energy:
 
 ## Momentum and Impulse
 
-Learning objectives to come in Module B
+- Determine whether momentum is conserved
+- Apply the impulse momentum theorem to a system where momentum is not conserved
+- Explain the connection between Newton's Third Law and momentum conservation
+- Apply momentum conservation and/or F = dp/dt in systems with changing mass
+- Define and interpret the center of mass (CM) frame
+- Calculate the velocity of the CM frame for a multi-particle system
+- Explain why momentum conservation holds in all inertial frames
+- Transform between the lab frame and the center of mass frame
+- Determine whether a collision is elastic or inelastic
+- Apply conservation of momentum and kinetic energy to solve elastic collision problems
+- Apply conservation of momentum to solve inelastic collision problems
 
 
 ## Angular Momentum
