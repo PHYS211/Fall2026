@@ -107,11 +107,23 @@ Here are the learning objectives you may see that involve work and energy:
 - Determine whether a collision is elastic or inelastic
 - Apply conservation of momentum and kinetic energy to solve elastic collision problems
 - Apply conservation of momentum to solve inelastic collision problems
+- Construct the Lagrangian for a system
+- Determine the equations of motion from the Lagrangian
+- Calculate the kinetic energy of a rigid body undergoing translation and rotation
 
 
 ## Angular Momentum
 
-Learning objectives to come in Module B
+- Calculate the angular momentum of a point particle
+- Calculate the angular momentum of a rigid body undergoing translation and rotation
+- Determine whether angular momentum is conserved
+- Calculate moments of inertia by summing point-mass contributions or integrating over a continuous mass distribution
+- Use the perpendicular-axis theorem to calculate a moment of inertia
+- Use the parallel-axis theorem to calculate a moment of inertia
+- Explain and apply the center-of-mass decomposition of angular momentum and kinetic energy
+- Define the effective potential for a system
+- Use the effective potential to determine regions of bound and unbound motion
+
 
 :::
 
