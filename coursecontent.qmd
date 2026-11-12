@@ -117,6 +117,9 @@ Here are the learning objectives you may see that involve work and energy:
 - Calculate the angular momentum of a point particle
 - Calculate the angular momentum of a rigid body undergoing translation and rotation
 - Determine whether angular momentum is conserved
+- Use the effective potential to determine turning points, bound vs. unbound motion, and qualitative orbital behavior
+- Relate energy, angular momentum, and eccentricity, and use these to classify orbits (circular, elliptical, parabolic, hyperbolic)
+- Use angular momentum conservation to relate different points along a trajectory
 - Calculate moments of inertia by summing point-mass contributions or integrating over a continuous mass distribution
 - Use the perpendicular-axis theorem to calculate a moment of inertia
 - Use the parallel-axis theorem to calculate a moment of inertia
